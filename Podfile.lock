@@ -1,0 +1,37 @@
+PODS:
+  - ChameleonFramework (2.1.0):
+    - ChameleonFramework/Default (= 2.1.0)
+  - ChameleonFramework/Default (2.1.0)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - JazzHands (2.0.8)
+  - Masonry (1.0.0)
+  - SDAutoLayout (1.52)
+  - SDCycleScrollView (1.64):
+    - SDWebImage (~> 3.7)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+
+DEPENDENCIES:
+  - ChameleonFramework
+  - FMDB
+  - JazzHands
+  - Masonry
+  - SDAutoLayout
+  - SDCycleScrollView
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  JazzHands: 355dc5c2b6fc38ee460d0ed7836c69539263f477
+  Masonry: b529bb169217897b6354d4b56b1fada6d475b13d
+  SDAutoLayout: 7c92e8f149059e80010507e471e1b4b6c85a62bb
+  SDCycleScrollView: 806fedb9342ab03b58b84442f985517b42c7cbb7
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+
+PODFILE CHECKSUM: a0822239b3a61d7ecf6bd1da06af0d21ba67bc3c
+
+COCOAPODS: 1.2.0
